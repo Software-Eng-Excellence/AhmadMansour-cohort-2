@@ -1,0 +1,6 @@
+.env
+build/
+logs/
+mock/
+node_modules/
+.vscode
